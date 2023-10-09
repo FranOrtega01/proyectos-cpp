@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1685714890 source:c:\users\lenovo\onedrive - frgp.utn.edu.ar\1 cuatrimestre\laboratorio de computación i\area de trabajo\proyectos\quinientos o escalera\main.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+
+1685715090 c:\users\lenovo\onedrive - frgp.utn.edu.ar\1 cuatrimestre\laboratorio de computación i\area de trabajo\proyectos\quinientos o escalera\funciones.h
+
+1687487180 source:c:\users\lenovo\onedrive - frgp.utn.edu.ar\escritorio\quinientos o escalera\código\quinientos o escalera\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"rlutil.h"
+	"funciones.h"
+
+1686019441 c:\users\lenovo\onedrive - frgp.utn.edu.ar\escritorio\quinientos o escalera\código\quinientos o escalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687464831 source:c:\users\lenovo\onedrive - frgp.utn.edu.ar\escritorio\quinientos o escalera\código\quinientos o escalera\funciones.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+
+1687461024 c:\users\lenovo\onedrive - frgp.utn.edu.ar\escritorio\quinientos o escalera\código\quinientos o escalera\funciones.h
+
+1687473028 source:c:\users\orteg\desktop\quinientos o escalera\funciones.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+
+1686005040 c:\users\orteg\desktop\quinientos o escalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687446624 c:\users\orteg\desktop\quinientos o escalera\funciones.h
+
+1687472780 source:c:\users\orteg\desktop\quinientos o escalera\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"rlutil.h"
+	"funciones.h"
+

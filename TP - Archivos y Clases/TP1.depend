@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1694695174 source:c:\users\pc-14\desktop\tp1\main.cpp
+	<iostream>
+	"menuDeportes.h"
+	"menuJugadores.h"
+	"archivoJugadores.h"
+	"Fecha.h"
+
+1694692858 c:\users\pc-14\desktop\tp1\menudeportes.h
+
+1694702805 c:\users\pc-14\desktop\tp1\menujugadores.h
+	"Jugador.h"
+	"archivoJugadores.h"
+
+1694702779 c:\users\pc-14\desktop\tp1\archivojugadores.h
+	<cstring>
+	"Jugador.h"
+
+1694694440 source:c:\users\pc-14\desktop\tp1\archivojugadores.cpp
+	"archivoJugadores.h"
+
+1694694720 source:c:\users\pc-14\desktop\tp1\jugadores.cpp
+	"Jugadores.h"
+
+1694694726 c:\users\pc-14\desktop\tp1\jugadores.h
+
+1694694822 source:c:\users\pc-14\desktop\tp1\jugador.cpp
+	"Jugador.h"
+
+1694702863 c:\users\pc-14\desktop\tp1\jugador.h
+	"Fecha.h"
+
+1694699663 c:\users\pc-14\desktop\tp1\fecha.h
+
+1696290728 source:c:\users\orteg\desktop\tp final\main.cpp
+	<iostream>
+	"menuDeportes.h"
+	"menuJugadores.h"
+	"menuConfiguracion.h"
+	"menuReportes.h"
+
+1696365459 c:\users\orteg\desktop\tp final\menudeportes.h
+	"DeporteClases.h"
+
+1696287207 c:\users\orteg\desktop\tp final\menujugadores.h
+	"DeporteClases.h"
+	"JugadorClases.h"
+	"funciones.h"
+
+1695780969 c:\users\orteg\desktop\tp final\jugador.h
+	"Fecha.h"
+
+1696286253 c:\users\orteg\desktop\tp final\fecha.h
+	<ctime>
+
+1694688378 c:\users\orteg\desktop\tp final\archivojugadores.h
+	<cstring>
+	"Jugador.h"
+
+1696360498 c:\users\orteg\desktop\tp final\jugadorclases.h
+	<cstring>
+	"funciones.h"
+	"Fecha.h"
+	"DeporteClases.h"
+
+1695901020 source:c:\users\alumno\desktop\tp final\main.cpp
+	<iostream>
+	"menuDeportes.h"
+	"menuJugadores.h"
+	"Fecha.h"
+
+1695909263 c:\users\alumno\desktop\tp final\menudeportes.h
+	"DeporteClases.h"
+
+1695909220 c:\users\alumno\desktop\tp final\menujugadores.h
+	"JugadorClases.h"
+
+1695905730 c:\users\alumno\desktop\tp final\jugadorclases.h
+	<cstring>
+	"Fecha.h"
+
+1695905836 c:\users\alumno\desktop\tp final\fecha.h
+	<ctime>
+
+1695909239 c:\users\alumno\desktop\tp final\deporteclases.h
+	<cstring>
+	"Fecha.h"
+
+1696287097 c:\users\orteg\desktop\tp final\deporteclases.h
+	<cstring>
+	"Fecha.h"
+
+1696286246 c:\users\orteg\desktop\tp final\funciones.h
+	"DeporteClases.h"
+	"JugadorClases.h"
+
+1696290270 c:\users\orteg\desktop\tp final\menuconfiguracion.h
+	"jugadorClases.h"
+	"deporteClases.h"
+
+1696363996 c:\users\orteg\desktop\tp final\menureportes.h
+	"JugadorClases.h"
+
