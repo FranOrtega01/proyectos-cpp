@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Game3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Game3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="C:/Users/orteg/Desktop/Workspace/AA PROYECTOS FACULTAD C++/Game3/SFML/include" />
+					<Add directory="include" />
+					<Add directory="./" />
+					<Add directory="../Game3" />
+				</Compiler>
+				<Linker>
+					<Add library="libsfml-window" />
+					<Add library="sfml-system" />
+					<Add library="sfml-graphics" />
+					<Add directory="C:/Users/orteg/Desktop/Workspace/AA PROYECTOS FACULTAD C++/Game3/SFML/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Game3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="./" />
+					<Add directory="../Game3" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="SFML/include" />
+		</Compiler>
+		<Linker>
+			<Add library="sfml-window" />
+			<Add library="sfml-system" />
+			<Add library="sfml-graphics" />
+			<Add directory="SFML/lib" />
+		</Linker>
+		<Unit filename="AssetManager.cpp" />
+		<Unit filename="AssetManager.h" />
+		<Unit filename="DEFINITIONS.h" />
+		<Unit filename="Enemy.cpp" />
+		<Unit filename="Enemy.h" />
+		<Unit filename="Flash.cpp" />
+		<Unit filename="Flash.h" />
+		<Unit filename="Functions.cpp" />
+		<Unit filename="Functions.h" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.h" />
+		<Unit filename="GameState.cpp" />
+		<Unit filename="GameState.h" />
+		<Unit filename="InputManager.cpp" />
+		<Unit filename="InputManager.h" />
+		<Unit filename="MainMenuState.cpp" />
+		<Unit filename="MainMenuState.h" />
+		<Unit filename="Map.cpp" />
+		<Unit filename="Map.h" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.h" />
+		<Unit filename="Potions.cpp" />
+		<Unit filename="Potions.h" />
+		<Unit filename="Proyectile.cpp" />
+		<Unit filename="Proyectile.h" />
+		<Unit filename="Spawner.cpp" />
+		<Unit filename="Spawner.h" />
+		<Unit filename="State.cpp" />
+		<Unit filename="State.h" />
+		<Unit filename="StateMachine.cpp" />
+		<Unit filename="StateMachine.h" />
+		<Unit filename="Tile.h" />
+		<Unit filename="assets/Level1.txt" />
+		<Unit filename="assets/TileSet/01.gif" />
+		<Unit filename="assets/TileSet/02.gif" />
+		<Unit filename="assets/TileSet/03.gif" />
+		<Unit filename="assets/TileSet/Player.png" />
+		<Unit filename="assets/TileSet/Slime.png" />
+		<Unit filename="assets/TileSet/pibito.png" />
+		<Unit filename="assets/TileSet/tilesheet.png" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

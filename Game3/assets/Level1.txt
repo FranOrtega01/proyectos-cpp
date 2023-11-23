@@ -1,0 +1,6 @@
+[Map]
+tilesheet= "C:/Users/orteg/Desktop/Workspace/AA PROYECTOS FACULTAD C++/Game3/assets/TileSet/tilesheet.png"
+name = Level 1
+tile-size = 16
+scale = 3
+data = 120, 121, 122, 144,145,146
